@@ -4,6 +4,7 @@
 
 - 📫 Contact me at twitter : https://twitter.com/HackWithAJ
 
+   https://jwt.io/img/icon.svg
   [![](https://visitcount.itsvg.in/api?id=HackWithAJ&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <div align="center" dir="auto">
